@@ -18,3 +18,5 @@ I'm just a cute blog, I got ideas overfollowing to my soul
 const isEven = (input: number) => input % 2 ? true : false
 ```
 
+![](/images/peep--2--M0NT.svg)
+
